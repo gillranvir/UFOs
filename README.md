@@ -8,13 +8,13 @@
 # 
 ### Location of search boxes
 #
-!alt_text[https://github.com/gillranvir/UFOs/blob/main/Resources/Delv2.1.png]
+![alt_text](https://github.com/gillranvir/UFOs/blob/main/Resources/Delv2.1.png)
 #
 ### Example: Enter search criteria by date and city name (other criteria can be applied as required)
-!alt_text[https://github.com/gillranvir/UFOs/blob/main/Resources/Delv2.2.png]
+![alt_text](https://github.com/gillranvir/UFOs/blob/main/Resources/Delv2.2.png)
 #
 ### Search Result:
-!alt_text[https://github.com/gillranvir/UFOs/blob/main/Resources/Delv2.3.png]
+![alt_text](https://github.com/gillranvir/UFOs/blob/main/Resources/Delv2.3.png)
 #
 ## Summary
 #
